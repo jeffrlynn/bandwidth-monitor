@@ -28,3 +28,5 @@ Personal project to make a bandwidth analyzer. The final product should automati
 * Would be better if this whole program could be installed and run periodically
 
 [x] Image of plot does not open properly
+
+[x] Readme formatted correctly?
